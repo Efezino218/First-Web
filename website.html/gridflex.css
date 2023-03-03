@@ -1,0 +1,37 @@
+.logo{
+	width: 50px;
+	border-radius: 100px;
+}
+
+
+.flex-work{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: lightgray;
+
+}
+
+
+
+.home{
+	width: 100px;
+	color:brown;
+} 
+.catolog{
+	width: 100px;
+} 
+.design{
+	width: 100px;
+	} 
+
+.about{
+	width: 100px;
+}
+.search-bar{
+	width: 400px;
+}

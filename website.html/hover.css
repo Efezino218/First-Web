@@ -1,0 +1,50 @@
+.grab:hover{
+	background: black;
+	color: white;
+
+}
+
+.grab:active{
+	background: red;
+} 
+
+
+
+
+
+
+
+.learnn:hover{
+	background: brown;
+	color: white;
+}
+
+.learnn:active{
+		color: lightgray;
+}
+
+
+
+
+
+
+.read:hover{
+	background: brown;
+	color: white;
+}
+
+.read:active{
+		color: lightgray;
+}
+
+
+
+
+.req:hover{
+	background: brown;
+	color: white;
+}
+
+.req:active{
+		color: lightgray;
+}
